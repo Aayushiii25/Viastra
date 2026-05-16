@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <a href="#demo"><strong>🎬 Demo</strong></a> ·
+  <a href="https://viastra.streamlit.app/" target="_blank"><strong>🎬 Demo</strong></a>
   <a href="#architecture"><strong>🏗 Architecture</strong></a> ·
   <a href="#model-performance"><strong>📊 Model Performance</strong></a> ·
   <a href="#installation"><strong>🚀 Install</strong></a> ·
