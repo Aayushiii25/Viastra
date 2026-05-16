@@ -40,7 +40,7 @@ The platform enables urban planners and infrastructure engineers to:
 
 ---
 
-## Demo
+## RESULTS
 
 | Dashboard | Assessment | Simulation |
 |-----------|------------|------------|
@@ -212,4 +212,4 @@ See [`models/model_card.md`](models/model_card.md) for full details.
 
 ## License
 
-MIT © 2024 Aayushi Dhurandhar
+MIT © 2026 Aayushi Dhurandhar
