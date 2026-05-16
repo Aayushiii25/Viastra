@@ -44,8 +44,6 @@ htmlcov/
 # Logs
 *.log
 
-# Legacy (preserved locally, not committed)
-images/
 models/ridge_model.pkl
 models/lasso_model.pkl
 data/roadsense_results.csv
